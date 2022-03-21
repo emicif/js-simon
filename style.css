@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 25px auto;
+}
+
+#game-area {
+  font-size: 100px;
+  text-align: center;
+}
